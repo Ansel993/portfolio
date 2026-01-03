@@ -95,3 +95,19 @@ section:hover {
 section {
     animation: fadeIn 0.8s ease-in-out;
 }
+.cv-button {
+    display: inline-block;
+    margin-top: 15px;
+    padding: 10px 25px;
+    background-color: #ffd369;
+    color: #222;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 25px;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.cv-button:hover {
+    background-color: #ffb703;
+    transform: scale(1.05);
+}
