@@ -59,3 +59,39 @@ footer {
     color: white;
     margin-top: 30px;
 }
+/* Smooth transitions globally */
+a, button {
+    transition: all 0.3s ease;
+}
+
+/* Navigation hover animation */
+nav a:hover {
+    color: #ffd369;
+    transform: scale(1.1);
+}
+
+/* Section card hover effect */
+section {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+section:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+}
+
+/* Fade-in animation */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+section {
+    animation: fadeIn 0.8s ease-in-out;
+}
