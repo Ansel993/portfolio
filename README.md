@@ -6,8 +6,7 @@ This is my personal portfolio website showcasing my skills, education, and exper
 
 ## 👤 About Me
 
-Hi, I'm **Ansel Jacob Aju**, a motivated and detail-oriented Bachelor of Computer Applications (BCA) student with a strong foundation in programming, data analysis, and software testing.  
-I am a quick learner with hands-on exposure to web development, database systems, and real-world company software environments. I am eager to apply my technical skills in IT, software development, or data analytics roles.
+Hi, I'm **Ansel Jacob Aju**, a motivated and detail-oriented Bachelor of Computer Applications (BCA) student with a strong foundation in programming, data analysis, and software testing.  I am a quick learner with hands-on exposure to web development, database systems, and real-world company software environments. I am eager to apply my technical skills in IT, software development, or data analytics roles.
 
 ---
 
